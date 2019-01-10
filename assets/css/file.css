@@ -6,6 +6,7 @@
     height: 50px;
     text-align: center;
     
+    
 }
 
 ul {
@@ -23,13 +24,16 @@ ul {
     display: block;
     color: #666666;
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px;
     text-decoration: none;
     
   }
 header   {
       background-color:white;
       display:block;
+      width: 100%;
+      position: fixed;
+      top: 0px;
   
 }
 
@@ -58,9 +62,13 @@ header   {
   }
 
   body {
-      margin: 0px;
       background-image: url("/Users/acr8685/Desktop/code/Basic-Portfolio/assets/images/morocco.png");
-      color: #666666
+      color: #666666;
+      position: relative;
+      top: 100px;
+      margin: 0px;
+      
+      
   }
 
   #profile {
