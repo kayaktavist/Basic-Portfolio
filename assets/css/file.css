@@ -62,7 +62,7 @@ header   {
   }
 
   body {
-      background-image: url("/Users/acr8685/Desktop/code/Basic-Portfolio/assets/images/morocco.png");
+      background-image: url("../images/morocco.png");
       color: #666666;
       position: relative;
       top: 100px;
